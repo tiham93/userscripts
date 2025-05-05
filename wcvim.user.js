@@ -8,8 +8,6 @@
 // @author      Sadist
 // @license     MIT
 // @description hjkl navigation within WeebCentral's reader. <Alt-c> to show reader's settings. <Alt-g> to show page select dialog.
-// @downloadURL https://update.greasyfork.org/scripts/534924/VimKeys%20Navigation%20for%20WeebCentral.user.js
-// @updateURL https://update.greasyfork.org/scripts/534924/VimKeys%20Navigation%20for%20WeebCentral.meta.js
 // ==/UserScript==
 
 const scrollLines = 35;
